@@ -1,0 +1,10 @@
+# LoveLoop Friend Management System Requirements
+# -----------------------------------------------
+# Core Requirements:
+# The application (web_app.py and dsa.py) is built entirely using Python's standard library
+# (http.server, urllib, json, threading, secrets, collections, os, datetime, time).
+# No external third-party packages are required to run the core server.
+# Minimum required Python version: Python 3.8+
+
+# Optional / Recommended utility packages for API testing and development:
+requests>=2.31.0

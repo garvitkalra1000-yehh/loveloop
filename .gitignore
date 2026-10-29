@@ -1,0 +1,20 @@
+# Executables & large binaries
+cloudflared.exe
+*.exe
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Backup & scratch files
+*.bak
+*.stitch.bak
+.dist/
+
+# OS metadata
+.DS_Store
+Thumbs.db
