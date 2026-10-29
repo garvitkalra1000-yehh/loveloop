@@ -1,0 +1,24 @@
+PROJECT SUBMISSION DETAILS
+==========================
+
+Student Name        : Garvit Kalra
+Registration Number : 251302250
+Course              : B.Tech CSE (Artificial Intelligence and Machine Learning)
+University          : SGT University
+
+Project Title        : LoveLoop - Social Media Friend Management System
+Programming Language : Python
+
+Concepts Used:
+Graph Data Structure (Adjacency List for Friendship Network),
+Queue (FIFO for Pending Friend Requests),
+Stack (LIFO for Undo Operations),
+Hash Maps & Sets (Dictionaries and Sets for O(1) Lookups & Mutual Friends),
+Searching Algorithms (Linear Search, Prefix Search),
+Sorting Algorithms (Top Connected Users, Alphabetical Ordering),
+Recommendation Algorithm (Mutual Friends Heuristic),
+JSON File Handling & Persistence (Auto-save/load with users.json),
+Multithreading & HTTP Web Server (REST API Architecture)
+
+GitHub Repository Link:
+https://github.com/garvitkalra1000-yehh/loveloop
